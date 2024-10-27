@@ -18,8 +18,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/HenryDiv">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=HenryDiv&theme=prussian&show_icons=true&hide_border=true&count_private=false")/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryDiv&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=henryydev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryydev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
     
