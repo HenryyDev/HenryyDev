@@ -16,7 +16,7 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="left" style="display: flex; justify-content: center;">
   <a href="https://github.com/HenryDiv">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=henryydev&theme=algolia&show_icons=true&hide_border=true&count_private=false"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryydev&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
